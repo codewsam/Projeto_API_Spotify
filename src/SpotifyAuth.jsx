@@ -3,7 +3,7 @@ import "./App.css";
 
 const SpotifyAuth = () => {
   const CLIENT_ID = "9c6200fbac0f495eba7ef1680621b741"; 
-  const REDIRECT_URI = "http://localhost:3000/callback"; 
+  const REDIRECT_URI = "https://codewsam.github.io/Projeto_API_Spotify/";  
   const AUTH_ENDPOINT = "https://accounts.spotify.com/authorize";
   const RESPONSE_TYPE = "token";
 
